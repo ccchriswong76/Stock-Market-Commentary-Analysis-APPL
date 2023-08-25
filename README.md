@@ -4,7 +4,7 @@ This Jupyter Notebook is designed to perform an analysis of stock market comment
 ## Table of Contents
 
 1. Data Scraping
-1.1 Scraping Trading Ideas from TradingView
+- Scraping Trading Ideas from TradingView
 2. Data Preprocessing
 2.1 Cleaning and Structuring Scraped Data
 2.2 Adjusting Article Dates for Business Days
