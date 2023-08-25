@@ -1,5 +1,5 @@
-# Stock Market Commentary Analysis Notebook
-This Jupyter Notebook is designed to perform an analysis of stock market commentaries related to the NASDAQ-AAPL stock on TradingView. The notebook utilizes Python libraries such as pandas, BeautifulSoup, Transformers, yfinance, seaborn, and matplotlib to gather, preprocess, analyze, and visualize data.
+# Stock Market Commentary Analysis Notebook (APPL)
+This Jupyter Notebook is designed to perform an analysis of stock market commentaries related to the [NASDAQ-AAPL stock on TradingView](https://www.tradingview.com/symbols/NASDAQ-AAPL/ideas/). The notebook utilizes Python libraries such as pandas, BeautifulSoup, Transformers, yfinance, seaborn, and matplotlib to gather, preprocess, analyze, and visualize data.
 
 ## Table of Contents
 
