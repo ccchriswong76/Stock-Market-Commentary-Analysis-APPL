@@ -3,23 +3,22 @@ This Jupyter Notebook is designed to perform an analysis of stock market comment
 
 ## Table of Contents
 
-Introduction
-Data Scraping
+1. Data Scraping
 Scraping Trading Ideas from TradingView
-Data Preprocessing
+2. Data Preprocessing
 Cleaning and Structuring Scraped Data
 Adjusting Article Dates for Business Days
-Sentiment Analysis
+3. Sentiment Analysis
 Utilizing the FinBERT Model for Sentiment Analysis
-Visualizing Sentiment Distribution
+4. Visualizing Sentiment Distribution
 Creating Histograms of Sentiment Scores
-Stock Performance Analysis
+5. Stock Performance Analysis
 Fetching Historical Stock Data using yfinance
 Analyzing Future Stock Performance Following Commentary
-Merging and Filtering Data
+6. Merging and Filtering Data
 Merging Commentary and Stock Data
 Filtering Data for Authors with Positions and Return Data
-Conclusion
+7. Conclusion
 Slight Positive Correlation Between Position and Sentiment
 Analyzing Future Stock Performance Following Commentary
 ## Purpose
