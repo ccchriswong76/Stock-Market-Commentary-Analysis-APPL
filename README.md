@@ -43,4 +43,5 @@ TradingView is the source of the stock market commentaries.
 The information provided in this notebook is for educational and analytical purposes only. It does not constitute financial advice, and any investment decisions should be based on thorough research and consultation with financial experts.
 
 Happy analyzing and learning from the world of stock market commentary!
+
 last modified date:19AUG2023
