@@ -15,7 +15,6 @@ This Jupyter Notebook is designed to perform an analysis of stock market comment
 5. Stock Performance Analysis
 - Fetching Historical Stock Data using yfinance
 - Analyzing Future Stock Performance Following Commentary
-6. Merging and Filtering Data
 - Merging Commentary and Stock Data
 - Filtering Data for Authors with Positions and Return Data
 7. Conclusion
