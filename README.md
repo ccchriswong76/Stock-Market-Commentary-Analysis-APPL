@@ -17,7 +17,7 @@ This Jupyter Notebook is designed to perform an analysis of stock market comment
 - Analyzing Future Stock Performance Following Commentary
 - Merging Commentary and Stock Data
 - Filtering Data for Authors with Positions and Return Data
-7. Conclusion
+6. Conclusion
 - Slight Positive Correlation Between Position and Sentiment
 - Analyzing Future Stock Performance Following Commentary
 ## Purpose
@@ -43,3 +43,4 @@ TradingView is the source of the stock market commentaries.
 The information provided in this notebook is for educational and analytical purposes only. It does not constitute financial advice, and any investment decisions should be based on thorough research and consultation with financial experts.
 
 Happy analyzing and learning from the world of stock market commentary!
+last modified date:19AUG2023
